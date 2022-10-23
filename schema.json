@@ -2,7 +2,8 @@
      "languageinfo": {
           "name": "Devanagari Languages Schema",
           "script": "devanagari",
-          "encoding": "utf-8" 
+          "encoding": "utf-8",
+          "bare_maatras_included": true
      },
      "alphabets": {
           "viraama": "्",
