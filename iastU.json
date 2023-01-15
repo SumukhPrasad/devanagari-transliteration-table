@@ -1,0 +1,20 @@
+{
+     "languageinfo": {
+          "name": "IAST Uppercase",
+          "script": "roman",
+          "encoding": "ASCII"
+     },
+     "alphabets": {
+          "viraama": "",
+          "vowels": ["A", "Ā", "I", "Ī", "U", "Ū", "Ṛ", "Ṝ", "Ḷ", "Ḹ", "E", "Ai", "O", "Au"],
+          "symbols": ["Ṃ", "Ḥ", "\"", "|", "||"],
+          "digits": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+          "consonants": ["K", "Kh", "G", "Gh", "Ṅ",
+          "C", "Ch", "J", "Jh", "Ñ",
+          "Ṭ", "Ṭh", "Ḍ", "Ḍh", "Ṇ",
+          "T", "Th", "D", "Dh", "N",
+          "P", "Ph", "B", "Bh", "M",
+          "Y", "R", "L", "V",
+          "Ś", "Ṣ", "S", "H", ""]
+     }
+}

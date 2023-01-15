@@ -1,0 +1,20 @@
+{
+     "languageinfo": {
+          "name": "Harvard-Kyoto",
+          "script": "roman",
+          "encoding": "ASCII"
+     },
+     "alphabets": {
+          "viraama": "",
+          "vowels": ["a", "A", "i", "I", "u", "U", "R", "RR", "lR", "lRR", "e", "ai", "o", "au"],
+          "symbols": ["M", "H", "\"", ".", ".."],
+          "digits": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+          "consonants": ["k", "kh", "g", "gh", "G",
+          "c", "ch", "j", "jh", "J",
+          "T", "Th", "D", "Dh", "N",
+          "t", "th", "d", "dh", "n",
+          "p", "ph", "b", "bh", "m",
+          "y", "r", "l", "v",
+          "z", "S", "s", "h", ""]
+     }
+}
